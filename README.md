@@ -408,3 +408,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 <p align="center">
   Built with ❤️ by Hemanth &nbsp;|&nbsp; AI Resume Analyzer
 </p>
+</p>
