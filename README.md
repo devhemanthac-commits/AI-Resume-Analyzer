@@ -116,7 +116,7 @@ Recruiters spend hours manually reviewing resumes. This project automates that p
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/ai-resume-analyzer.git
+git clone https://github.com/devhemanthac-commits/ai-resume-analyzer.git
 cd ai-resume-analyzer
 
 # 2. Create and activate a virtual environment
