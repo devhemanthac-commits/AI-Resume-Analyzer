@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+wheels/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+.env/
+
+# Environment variables
+.env
+kaggle.json
+
+# Kaggle credentials
+~/.kaggle/
+
+# Raw data (too large for git)
+data/raw/
+
+# Outputs (plots, reports)
+outputs/plots/
+outputs/*.html
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
